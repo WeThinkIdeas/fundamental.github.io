@@ -359,7 +359,6 @@ title: About
         </div>
         <!--end container-->
     </section>
-
 <section>
     <div class="container">
         <div class="row">

@@ -3,8 +3,8 @@ layout: default
 title: Contato
 ---
 
-<div class="main-container transition--fade">
-    <section class="height-70 bg--dark imagebg page-title page-title--animate parallax" data-overlay="6">
+<div>
+    <section class="height-70 bg--dark imagebg page-title page-title--animate parallax">
         <div class="background-image-holder">
             <img alt="image" src="img/hero16.jpg" />
         </div>
