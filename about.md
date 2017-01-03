@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: /about/
+permalink: /About/
 ---
 
 <div class="main-container transition--fade">
