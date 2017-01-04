@@ -18,3 +18,4 @@ url: "https://henriqueeliass.github.io/" # the base hostname & protocol for your
 
 # Build settings
 markdown: kramdown
+permalink :/title
