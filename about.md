@@ -1,7 +1,6 @@
 ---
 layout: page
 title: about
-permalink: /about/
 ---
 
 <div class="main-container transition--fade">
