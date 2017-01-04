@@ -11,12 +11,14 @@
             </div>
             <div class="nav-module menu-module left">
                 <ul class="menu">
-<li><a href="/"> Home </a></li>
-<li><a href="/about.html"> Sobre </a></li>
-<li><a href="/contato.html"> Contato </a></li>
-                    <li>
-
-                    </li>
+                          
+                              {% for page in site.pages %}{% if page.title %}
+              				{% if page.url != '/404.html' %}
+                              <li>
+                                  <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                              </li>
+              				{% endif %}
+                              {% endif %}{% endfor %}
                 </ul>
 
     </nav>
