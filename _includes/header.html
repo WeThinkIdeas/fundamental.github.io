@@ -1,4 +1,4 @@
-<body class="scroll-assist" data-reveal-selectors="section:not(.masonry):not(:first-of-type):not(.parallax)" data-reveal-timing="1000">
+
     <a id="top"></a>
     <nav class="transition--fade">
       <div class="nav-bar nav--absolute nav--transparent" data-fixed-at="200">
@@ -11,13 +11,17 @@
             <div class="nav-module menu-module left">
                 <ul class="menu">
                     <li><a href="{{ site.baseurl }}/">Home</a></li>
-                    {% for page in site.pages %}{% if page.title %}
+                    <li><a href="{{ site.baseurl }}/about.html">Sobre</a></li>
+                    <li><a href="{{ site.baseurl }}/contato.html">Contato</a></li>
+
+
+                    <!-- {% for page in site.pages %}{% if page.title %}
             {% if page.url != '/404.html' %}
                     <li>
                         <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                     </li>
             {% endif %}
-                    {% endif %}{% endfor %}
+                    {% endif %}{% endfor %} -->
                 </ul>
             </div>
             <!--end nav module-->
