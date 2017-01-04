@@ -1,7 +1,7 @@
 ---
 layout: default
 title: contato
-permalink: /jekyll/contato
+
 ---
 
 <div class="main-container transition--fade">
