@@ -568,7 +568,7 @@ img:last-child {
   background: #fff;
 }
 [data-overlay].bg--primary:before {
-  background: #425cbb;
+  background: #232323;
 }
 [data-overlay="1"]:before {
   opacity: 0.1;
@@ -832,7 +832,7 @@ a {
   background: #f4f4f4;
 }
 .bg--primary {
-  background: #425cbb;
+  background: #232323;
 }
 .bg--primary p,
 .bg--primary span,
