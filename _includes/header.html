@@ -4,15 +4,15 @@
       <div class="nav-bar nav--absolute nav--transparent" data-fixed-at="200">
             <div class="nav-module logo-module left">
                 <a href="{{ site.baseurl }}/">
-                    <img class="logo logo-dark" alt="logo" src="img/logo-dark.png" />
-                    <img class="logo logo-light" alt="logo" src="img/logo-light.png" />
+                    <img class="logo logo-dark" alt="logo" src="{{ "/img/logo-dark.png" | prepend: site.baseurl }}" />
+                    <img class="logo logo-light" alt="logo" src="{{ "/img/logo-light.png" | prepend: site.baseurl }}" />
                 </a>
             </div>
             <div class="nav-module menu-module left">
                 <ul class="menu">
                     <li><a href="{{ site.baseurl }}/">Home</a></li>
                     <li><a href="{{ site.baseurl }}/about.html">Sobre</a></li>
-                    <li><a href="{{ site.baseurl }}/about.html">Blog</a></li>
+                    <li><a href="{{ site.baseurl }}/blog.html">Blog</a></li>
                     <li><a href="{{ site.baseurl }}/contact.html">Contato</a></li>
                     <!-- {% for page in site.pages %}{% if page.title %}
             {% if page.url != '/404.html' %}
