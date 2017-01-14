@@ -1,14 +1,14 @@
 ---
 layout:     post
-title:      "Failure is not an option"
-subtitle:   "Many say exploration is part of our destiny, but it’s actually our duty to future generations."
-date:       2014-07-08 12:00:00
-author:     "Start Bootstrap"
-header-img: "img/post-bg-03.jpg"
+title:      "A estratégia de marketing efetiva."
+subtitle: "Informações indispensáveis para vender mais na internet ."
+date:       2014-07-01 12:00:00
+author:     "Henrique Elias"
+header-img: "img/post-bg-02.jpg"
 
 ---
 
-<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
+<p>Inbound marketing ou marketing de atração é uma forma de publicidade on-line na qual uma empresa se promove através de blogs, podcasts, vídeos, e-books, e-mail marketing, whitepapers, SEO e outras formas de marketing de conteúdo.</p>
 
 <p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
 
@@ -22,7 +22,7 @@ header-img: "img/post-bg-03.jpg"
 
 <p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
 
-<p>TESTETETETETETETETof finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
 
 <blockquote>The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
 
@@ -33,7 +33,7 @@ header-img: "img/post-bg-03.jpg"
 <p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+    <img src="{{ site.baseurl }}/img/ebook.png" alt="Post Sample Image">
 </a>
 <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
 
