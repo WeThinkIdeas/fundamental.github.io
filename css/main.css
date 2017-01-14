@@ -7697,3 +7697,7 @@ section[class*='elements-'] hr + .row {
     margin-bottom: 0.8125em;
   }
 }
+
+a.active {
+  color: #ecf0f1
+}
