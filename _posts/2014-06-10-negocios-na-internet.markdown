@@ -4,7 +4,9 @@ title:      "Negócios na internet."
 subtitle:   "O que você precisa saber para inserir ou criar um negócio na internet."
 date:       2017-01-10 12:00:00
 author:     "Henrique Elias"
-header-img: "http://fundamental.digital/img/post-bg-20.jpg"
+header-img2: "img/post-bg-20.jpg"
+header-img: "https://fundamental.digital/img/post-bg-20.jpg"
+
 
 ---
 

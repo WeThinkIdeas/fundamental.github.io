@@ -22,4 +22,4 @@ permalink: /:year/:month/:day/:title/
 
 # Gems
 
-gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
+gems: [jekyll-paginate, jekyll-sitemap]
