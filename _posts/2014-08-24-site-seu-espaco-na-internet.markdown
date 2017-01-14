@@ -4,7 +4,7 @@ title:      "Site é seu próprio espaço na internet."
 subtitle:   "Um site é a oportunidade de compartilhar produtos, serviços e conteúdo com o mundo."
 date:       2017-01-10 12:00:00
 author:     "Henrique Elias"
-header-img: "img/post-bg-04.jpg"
+header-img: "http://fundamental.digital/img/post-bg-04.jpg"
 
 ---
 

@@ -4,7 +4,7 @@ title:      "A estratégia de marketing efetiva."
 subtitle: "Informações indispensáveis para vender mais na internet ."
 date:       2014-07-01 12:00:00
 author:     "Henrique Elias"
-header-img: "img/post-bg-02.jpg"
+header-img: "http://fundamental.digital/img/post-bg-02.jpg"
 
 ---
 
