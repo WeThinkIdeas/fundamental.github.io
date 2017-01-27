@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "A estratégia de marketing efetiva."
-subtitle: "Informações indispensáveis para vender mais na internet ."
+title:      "Como atrair mais clientes através do marketing digital?"
+subtitle: "Informações indispensáveis para vender mais na internet."
 date:       2014-07-01 12:00:00
 author:     "Henrique Elias"
 header-img2: "img/post-bg-02.jpg"
@@ -10,37 +10,75 @@ header-img: "https://fundamental.digital/img/post-bg-02.jpg"
 
 ---
 
-<p>Inbound marketing ou marketing de atração é uma forma de publicidade on-line na qual uma empresa se promove através de blogs, podcasts, vídeos, e-books, e-mail marketing, whitepapers, SEO e outras formas de marketing de conteúdo.</p>
 
-<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
+<p>O maior equivoco das pessoas que buscam ganhar dinheiro na internet é imaginar que ao criar um blog básico com imagens e textos simples irão fazer muito sucesso.
+É possível ganhar muito dinheiro sem sair de casa. Mas, isso requer grandes estratégias. O principal foco do mundo online é o famoso marketing digital.</p>
+<h2 class="section-heading">O que é Marketing Digital?</h2>
+Marketing digital são estratégias desenvolvidas para levar o site\blog a alcançar um maior seguimento na internet. Obtendo mais lucro, com o empreendedorismo digital.
+Técnicas para atrair mais cliente através do marketing digital:
+Conheça as principais técnicas de marketing digital para atrair mais clientes.
 
-<p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
+1	– Seja honesto:
+Antes de qualquer desenvolvimento estratégico de marketing digital, não se esqueça: seja honesto.
+O cliente precisa sobre tudo confiar nas informações que está disponibilizando em seu conteúdo.
+Então passe essa confiança para o público, certamente retornarão, mais tarde.
 
-<p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
+2	– Defina um público:
+Você sabe perfeitamente o conteúdo que está oferecendo. Então não se esqueça de definir um público alvo.
+Isso irá facilitar o seu trabalho na hora de utilizar as estratégias de linguagem e desenvolvimento.
 
-<p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
+3	– Não use o seu blog de maneira errada:
+Se o seu principal foco for vendas, nada de utilizar o blog para isso. Crie um site de loja virtual e use o seu blog como um meio complementar para ajudar aos seus clientes.
+Por exemplo: Você tem uma loja virtual de roupas femininas, não use o blog para vender, utilize-o para passar informações sobre moda, que indiretamente leve os seus clientes a comprarem o seu produto.
+As pessoas costumam ter dúvidas sobre os produtos no qual estão adquirindo, esse é o lugar ideal para tirar todas elas, sem limite.
 
-<h2 class="section-heading">The Final Frontier</h2>
+4 -	Ofereça guias a seus clientes:
+Desenvolva conteúdo guia para oferecer a seu cliente. E-books e textos informativos são a melhor opção de agradar os internautas.
+É também a melhor opção para conseguir e-mails para a utilização no e-mail marketing.
 
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+5 -	O que o seu público quer?
+Você precisar administrar o seu conteúdo de acordo ao interesse de seu público. Lembre-se a opinião e busca dos internautas é prioridade no seu conteúdo. Não se esqueça.
+O Google oferece diferentes ferramentas que te auxiliam a descobrir as famosas palavras chaves relacionadas ao conteúdo que você oferece. É uma ótima ideia de envolver-se com o seu público.
+Uma das melhores maneiras de interação é a comunicação. Seja comunicativo. Pergunte o que desejam, permita que comentem suas postagens para que possa acompanhar o desenvolvimento pessoal de material.
 
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+6 -	Cuide do título:
+Um dos principais detalhes que se deve observar é na hora de desenvolver o título para a sua matéria. É o principal motivo, que leva as pessoas a acessarem o artigo e conhecer o conteúdo a qual está disponibilizando.
+Já ouviu falar em SEO? É uma ferramenta simples utilizada por meio de palavras chaves para desenvolver o resultado orgânicos de seus posts.
+Então não se esqueça de utilizar as famosas palavras chaves no título de seu texto.
+Portanto, cuidado! Robotizar o título de seu post, para torná-lo atrativo nos mecanismos de busca, pode ser algo fácil. Mas, não se esqueça, você não precisa atrair apenas os mecanismos de buscas, mas também os internautas. Então é necessário, ter um balanço.
 
-<blockquote>The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
+Crie títulos polêmicos, utilize sempre:
+-	Cuidado!
+-	Perigo!
+-	Não perca!
+-	Novidade!
+-	Aprenda agora!
 
-<p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
+7 -	Não robotize os seus serviços:
+Pode parecer mais fácil desenvolver um blog inteiramente programado, pelos serviços de robotização de sua plataforma. Esse é um dos erros mais comuns, cometidos por pessoas que buscam elevar ainda mais o número de clientes em seus blogs.
 
-<h2 class="section-heading">Reaching for the Stars</h2>
+8 -	O horário para cada postagem:
+Não existe um horário universal para serem feitas as postagens de seu blog. Portanto, assim como conhecer o seu público alvo, deve-se ter uma ideia do horário de maior acesso e o melhor momento para realizar as postagens.
 
-<p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
+9 -	Saiba ouvir críticas:
+Um dos momentos mais difíceis dos seres humanos é quando necessitam calar-se diante as críticas, não é fácil. Portanto, tente compreender os internautas de maneira educada e compreensiva.
+Não se esqueça, eles fazem o seu site, saiba como lidar com cada um deles.
 
-<a href="#">
-    <img src="{{ site.baseurl }}/img/ebook.png" alt="Post Sample Image">
-</a>
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
+10 -	Vídeos no Facebook ao invés de Youtube?
+É bastante comum as pessoas vincularem os vídeos de seu material diretamente do Youtube. É uma ideia bastante interessante, para pessoas que trabalham no marketing direcionado ao Youtube, com um alto índice de seguidores e visualizações.
+O fato é que a maioria das pessoas, tem maior facilidade ao acesso do Facebook das outras redes sociais.
+Então ao invés de upar o seu vídeo do Youtube, que tal postar na sua Fan Page e vincular ao seu blog? Isso irá aumentar, o índice de visualização de ambas as partes e consequentemente você irá atrair mais clientes através dessa estratégia de marketing digital.
 
-<p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
+11 -	Anuncie no Facebook
+Se você tem um blog ou um site de vendas, movimentar o seu comercio através do Facebook é uma alternativa maravilhosa e infalível.
+Os anúncios do Facebook são uma das formas mais baratas de atrair os seus clientes através do marketing digital.
+E essa alternativa é fundamental para duas situações:
+a	– Você tem a Fan Page, mas não tem seguidores: Se esse for o caso, através do anuncio do Facebook é possível expandir a sua página de maneira simples.
+b	– Você tem muitos seguidores, mas nem todos são seus clientes: O mais comum dos casos, não é porque a página tem um milhão seguidores que o número de vendas é altíssimo. Se for esse o caso, está na hora de apostar na divulgação de seus produtos.
 
-<p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
+12	- Tem um canal no Youtube?
+Se você já tem um canal no Youtube, não se esqueça de um detalhe muito importante que certamente irá lhe ajudar na divulgação de seu empreendimento digital. Comente os seus próprios vídeos.
 
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
+13 - Trabalha com vendas? Tem certeza que está falando de seu produto da maneira certa?
+O erro mais comum de pessoas que comercializam algum produto pela internet é divulgar a descrição do produto ao invés de falar sobre os resultados positivos que ele oferece.
+Não descreva. Explique os motivos pela qual a pessoa precisa adquirir o seu conteúdo.
