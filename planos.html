@@ -220,7 +220,8 @@ Nossos softwares, sites e sistemas de marketing são o que tem de mais eficiente
 						 <span class="hidden-lg hidden-md">Simple Install</span>
 					 </li>
 						 <li>
-							 <a class="btn vpe" href="#">
+
+							 <a class="btn vpe" id="customButton">
 								 <span class="btn__text">
 									 Subscribe Now
 								 </span>
@@ -233,3 +234,34 @@ Nossos softwares, sites e sistemas de marketing são o que tem de mais eficiente
 		</div>
 		</div>
 		</section>
+
+
+		<script src="https://checkout.stripe.com/checkout.js"></script>
+
+
+		<script>
+		var handler = StripeCheckout.configure({
+		  key: 'pk_test_6pRNASCoBOKtIshFeQd4XMUh',
+		  locale: 'auto',
+		  token: function(token) {
+		    // You can access the token ID with `token.id`.
+		    // Get the token ID to your server-side code for use.
+		  }
+		});
+
+		document.getElementById('customButton').addEventListener('click', function(e) {
+		  // Open Checkout with further options:
+		  handler.open({
+		    name: 'Fundamental Inc',
+		    description: 'Plano empresa',
+		    zipCode: true,
+		    amount: 39800
+		  });
+		  e.preventDefault();
+		});
+
+		// Close Checkout on page navigation:
+		window.addEventListener('popstate', function() {
+		  handler.close();
+		});
+		</script>
