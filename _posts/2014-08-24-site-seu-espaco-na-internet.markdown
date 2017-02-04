@@ -14,19 +14,21 @@ header-img: "https://fundamental.digital/img/post-bg-04.jpg"
 
 <h2 class="section-heading">Ponto de partida</h2>
 
-<p>Existem várias formas de ter um site, você pode ter um site com um modelo pré definido</p>
+<p>Existem várias formas de ter um site, você pode fazer por conta própria, utilizando diversas ferramentas disponíveis na internet, contratanto um webdesigner ou uma agência. Tudo vai depender da sua disponibilidade de recursos, tempo, dinheiro, sua familiaridade com tecnologia e necessidades. Ter qualquer site é melhor que não ter nenhum.</p>
 
-<h2 class="section-heading">Reaching for the Stars</h2>
+<h3 class="section-heading">Sites para construção de sites</h3>
 
-<p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
+<p>Existem diversos ferramentas na internet para criação de sites e elas podem ser muito úteis caso você tenha muito pouco recursos para investir. É possível você ter um site utilizando essas ferramentas até mesmo de graça, porém caso você queira ter um endereço personalizado www.suaempresa.com e e-mails @suaempresa.com você tem que começar a desembolsar alguns trocados. Com algo em torno de R$ 100,00 por mês é possível ter um site profissional com endereço personalizado, porém você terá que despender de tempo para criar, bom gosto, algum conhecimento de design e manter a regularidade dos pagamentos.</p>
 
-<a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
-</a>
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
+<h3 class="section-heading">Contratando um webdesigner</h3>
 
-<p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
+<p>O webdesigner é o profissional especialista em desenvolver soluções para internet, você pode contratar ele diretamente ou contratar um agência com diversos webdesigner's a sua disposição. Antes de contratar um webdesigner você deve ponderar algumas coisas:</p>
 
-<p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
-
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
+- Analisar o portfolio deste profissional;
+- Verificar onde seu site ficará armazenado e se terá uma cópia do site;
+- A disponibilidade de suporte, tempo de resposta e o custo;
+- Como será o processo para realizar alterações e se você poderá fazer algumas alterações;
+- Como efetuará o pagamento pelos serviços;
+- Qual o processo de desenvolvimento;
+- Prazos;
+- Entre outros.
