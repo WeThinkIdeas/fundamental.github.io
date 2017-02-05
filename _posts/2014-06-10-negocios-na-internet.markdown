@@ -10,7 +10,7 @@ header-img: "https://fundamental.digital/img/post-bg-20.jpg"
 
 ---
 
-<p>Para inserir ou criar um negócio na internet é necessário ter conhecimento sobre determinadas ferramentas mesmo se for contratar alguém para ajudar com isto. Este e-book vai fornecer informações para fazer melhores escolhas para quem optar por seguir sozinho ou optar por assessoria. O que precisa saber independente do caminho que escolher são informações sobre os seguintes assuntos:<br></p>
+<p>Para inserir ou criar um negócio na internet é necessário ter conhecimento sobre determinadas ferramentas mesmo se for contratar alguém ou alguma empresa para ajudar com isto. Este e-book vai fornecer informações para fazer melhores escolhas para quem optar por seguir sozinho ou optar por assessoria. O que precisa saber independente do caminho que escolher são informações sobre os seguintes assuntos:<br></p>
 <br>
 <h4>
 Público-alvo;<br>
@@ -33,5 +33,5 @@ Curso on-line.<br>
 Para saber mais sobre esses assuntos baixe nosso e-book com mais detalhes destas ferramentas gratuitamente.
 
 <a href="http://ifundamental.com.br/cadastro">
-    <img src="{{ site.baseurl }}/img/ebook.png" alt="Post Sample Image">
+    <img src="{{ site.baseurl }}/img/ebook.png" alt="E-book Fundamental">
 </a>
