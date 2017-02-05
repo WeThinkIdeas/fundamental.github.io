@@ -11,21 +11,13 @@ header-img: "https://fundamental.digital/img/post-bg-02.jpg"
 ---
 
 
-<p>O maior equivoco das pessoas que buscam ganhar dinheiro na internet é imaginar que ao criar um blog básico com imagens e textos simples irão fazer muito sucesso.
-É possível ganhar muito dinheiro sem sair de casa. Mas, isso requer grandes estratégias. O principal foco do mundo online é o famoso marketing digital.</p>
+<p>O maior equivoco das pessoas que buscam ganhar dinheiro na internet é imaginar que ao criar um site ou blog com conteúdo irrelevante irão fazer sucesso na internet e vender automaticamente. É possível ganhar muito dinheiro na internet, porém isso requer compartilhar conteúdos relevantes que contribuam para o maior número de pessoas possível e que realmente faça diferença para essas pessoas. Hoje o foco do mundo online é no marketing digital enquanto deveria ser o conteúdo.</p>
 <h2 class="section-heading">O que é Marketing Digital?</h2>
-Marketing digital são estratégias desenvolvidas para levar o site\blog a alcançar um maior seguimento na internet. Obtendo mais lucro, com o empreendedorismo digital.
-Técnicas para atrair mais cliente através do marketing digital:
-Conheça as principais técnicas de marketing digital para atrair mais clientes.
+Marketing digital são estratégias desenvolvidas para levar mais possíveis clientes para o site ou blog da sua empresa, seja por meio de publicidade paga ou gratuita.
 
-1	– Seja honesto:
-Antes de qualquer desenvolvimento estratégico de marketing digital, não se esqueça: seja honesto.
-O cliente precisa sobre tudo confiar nas informações que está disponibilizando em seu conteúdo.
-Então passe essa confiança para o público, certamente retornarão, mais tarde.
-
-2	– Defina um público:
+1	– Defina um nicho:
 Você sabe perfeitamente o conteúdo que está oferecendo. Então não se esqueça de definir um público alvo.
-Isso irá facilitar o seu trabalho na hora de utilizar as estratégias de linguagem e desenvolvimento.
+Isso irá facilitar o seu trabalho na hora de utilizar a linguagem e as necessidades desse grupo.
 
 3	– Não use o seu blog de maneira errada:
 Se o seu principal foco for vendas, nada de utilizar o blog para isso. Crie um site de loja virtual e use o seu blog como um meio complementar para ajudar aos seus clientes.
