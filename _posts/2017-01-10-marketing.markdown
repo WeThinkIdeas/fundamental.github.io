@@ -1,28 +1,27 @@
 ---
 layout:     post
-title:      "Como atrair mais clientes através do marketing digital?"
+title:      "Como atrair mais clientes através do marketing digital"
 subtitle: "Informações indispensáveis para vender mais na internet."
 date:       2014-07-01 12:00:00
 author:     "Henrique Elias"
-header-img2: "img/post-bg-02.jpg"
-header-img: "https://fundamental.digital/img/post-bg-02.jpg"
+header-img2: "img/post-bg-03.jpg"
+header-img: "https://fundamental.digital/img/post-bg-03.jpg"
 
 
 ---
 
 
-<p>O maior equivoco das pessoas que buscam ganhar dinheiro na internet é imaginar que ao criar um site ou blog com conteúdo irrelevante irão fazer sucesso na internet e vender automaticamente. É possível ganhar muito dinheiro na internet, porém isso requer compartilhar conteúdos relevantes que contribuam para o maior número de pessoas possível e que realmente faça diferença para essas pessoas. Hoje o foco do mundo online é no marketing digital enquanto deveria ser o conteúdo.</p>
-<h2 class="section-heading">O que é Marketing Digital?</h2>
-Marketing digital são estratégias desenvolvidas para levar mais possíveis clientes para o site ou blog da sua empresa, seja por meio de publicidade paga ou gratuita.
+<p>O maior equivoco das pessoas que buscam ganhar dinheiro na internet é imaginar que ao criar um site ou blog com conteúdo irrelevante irão fazer sucesso na internet e vender muito sem esforço. É possível ganhar muito dinheiro na internet, porém isso requer compartilhar conteúdos relevantes que contribuam para o maior número de pessoas possível e que realmente faça diferença para essas pessoas. Hoje muitas negócios focam somente no marketing digital enquanto deveriam primeiramente desenvolver bom conteúdo e fornecer excelentes produtos ou serviços.</p>
 
-1	– Defina um nicho:
-Você sabe perfeitamente o conteúdo que está oferecendo. Então não se esqueça de definir um público alvo.
-Isso irá facilitar o seu trabalho na hora de utilizar a linguagem e as necessidades desse grupo.
+<h3 class="section-heading">O que é Marketing Digital?</h3>
 
-3	– Não use o seu blog de maneira errada:
-Se o seu principal foco for vendas, nada de utilizar o blog para isso. Crie um site de loja virtual e use o seu blog como um meio complementar para ajudar aos seus clientes.
-Por exemplo: Você tem uma loja virtual de roupas femininas, não use o blog para vender, utilize-o para passar informações sobre moda, que indiretamente leve os seus clientes a comprarem o seu produto.
-As pessoas costumam ter dúvidas sobre os produtos no qual estão adquirindo, esse é o lugar ideal para tirar todas elas, sem limite.
+Marketing digital são estratégias desenvolvidas para levar mais possíveis clientes para o site ou blog da sua empresa, seja por meio de publicidade paga ou gratuita, um conjunto de técnicas, ferramentas e ações visando vender mais.
+
+**Defina seu nicho:** Definindo seu nicho você saberá qual a linguagem deve usar, as preferências e necessidades do seu cliente ideal e qual é o processo de decisão deste grupo.
+
+**Contribua significativamente para a evolução do seu cliente:** Crie conteúdos para ajudar seus clientes, seja explicando como utilizar seus produtos, aumentar a durabilidade, tenho um canal publico de comunicação através de um blog.
+
+Por exemplo: Você tem uma loja virtual de roupas femininas, não use o blog para vender, utilize-o para passar informações sobre moda, que indiretamente leve os seus clientes a comprarem seus produtos. As pessoas costumam ter dúvidas sobre os produtos no qual estão adquirindo, esse é o lugar ideal para tirar todas elas.
 
 4 -	Ofereça guias a seus clientes:
 Desenvolva conteúdo guia para oferecer a seu cliente. E-books e textos informativos são a melhor opção de agradar os internautas.
