@@ -13,7 +13,7 @@ header-img: "https://fundamental.digital/img/post-bg-03.jpg"
 
 <p>O maior equivoco das pessoas que buscam ganhar dinheiro na internet é imaginar que ao criar um site ou blog com conteúdo irrelevante irão fazer sucesso na internet e vender muito sem esforço. É possível ganhar muito dinheiro na internet, porém isso requer compartilhar conteúdos relevantes que contribuam para o maior número de pessoas possível e que realmente faça diferença para essas pessoas. Hoje muitas negócios focam somente no marketing digital enquanto deveriam primeiramente desenvolver bom conteúdo e fornecer excelentes produtos ou serviços.</p>
 
-<h3 class="section-heading">O que é Marketing Digital?</h3>
+<h4 class="section-heading">O que é Marketing Digital?</h4>
 
 Marketing digital são estratégias desenvolvidas para levar mais possíveis clientes para o site ou blog da sua empresa, seja por meio de publicidade paga ou gratuita, um conjunto de técnicas, ferramentas e ações visando vender mais.
 
