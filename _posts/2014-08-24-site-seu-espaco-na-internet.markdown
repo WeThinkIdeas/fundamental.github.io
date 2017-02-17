@@ -12,7 +12,7 @@ header-img: "https://fundamental.digital/img/post-bg-04.jpg"
 
 <p>Ter um site é ter seu próprio estaço na internet, quem dita as regras é você. Um site é a oportunidade de compartilhar produtos, serviços e conteúdo com o mundo de forma automática. Basta contruir um site, incluir as informações que gostaria de compartilhar e publicar.</p>
 
-<h2 class="section-heading">Ponto de partida</h2>
+<h4 class="section-heading">Ponto de partida</h4>
 
 <p>Existem várias formas de ter um site, você pode fazer por conta própria, utilizando diversas ferramentas disponíveis na internet, contratanto um webdesigner ou uma agência. Tudo vai depender da sua disponibilidade de recursos, tempo, dinheiro, sua familiaridade com tecnologia e necessidades. Ter qualquer site é melhor que não ter nenhum.</p>
 
