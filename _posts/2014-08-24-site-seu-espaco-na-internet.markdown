@@ -16,11 +16,11 @@ header-img: "https://fundamental.digital/img/post-bg-04.jpg"
 
 <p>Existem várias formas de ter um site, você pode fazer por conta própria, utilizando diversas ferramentas disponíveis na internet, contratanto um webdesigner ou uma agência. Tudo vai depender da sua disponibilidade de recursos, tempo, dinheiro, sua familiaridade com tecnologia e necessidades. Ter qualquer site é melhor que não ter nenhum.</p>
 
-<h3 class="section-heading">Construtores</h3>
+<h4 class="section-heading">Construtores</h4>
 
 <p>Existem diversos ferramentas na internet para criação de sites e elas podem ser muito úteis caso você tenha poucos recursos para investir. É possível você ter um site utilizando essas ferramentas até mesmo de graça, porém caso você queira ter um endereço personalizado www.suaempresa.com e e-mails @suaempresa.com você tem que começar a desembolsar alguns trocados, com algo em torno de R$ 100,00 por mês é possível ter um site profissional com endereço personalizado, porém você terá que despender de tempo para criar, bom gosto, algum conhecimento de design e manter a regularidade dos pagamentos, caso você deixar de pagar você perde seu site.</p>
 
-<h3 class="section-heading">Contratando um webdesigner</h3>
+<h4 class="section-heading">Contratando um webdesigner</h4>
 
 <p>O webdesigner é o profissional especialista em desenvolver soluções para internet, você pode contratar ele diretamente ou contratar uma agência com diversos webdesigner's. Antes de contratar um webdesigner você deve ponderar algumas coisas:</p>
 
