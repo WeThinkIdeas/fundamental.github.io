@@ -2,7 +2,7 @@
 layout:     post
 title:      "Site é seu próprio espaço na internet."
 subtitle:   "Um site é a oportunidade de compartilhar produtos, serviços e conteúdo com o mundo."
-date:       2017-01-10 12:00:00
+date:       2017-02-24 12:00:00
 author:     "Henrique Elias"
 header-img2: "img/post-bg-04.jpg"
 header-img: "https://fundamental.digital/img/post-bg-04.jpg"

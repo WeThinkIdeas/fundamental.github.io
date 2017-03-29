@@ -2,7 +2,7 @@
 layout:     post
 title:      "Como atrair mais clientes através do marketing digital"
 subtitle: "Informações indispensáveis para vender mais na internet."
-date:       2014-07-01 12:00:00
+date:       2017-03-01 12:00:00
 author:     "Henrique Elias"
 header-img2: "img/post-bg-03.jpg"
 header-img: "https://fundamental.digital/img/post-bg-03.jpg"
