@@ -19,4 +19,4 @@ Marketing digital são estratégias desenvolvidas para levar mais possíveis cli
 
 **Defina seu nicho:** Definindo seu nicho você saberá qual a linguagem deve usar, as preferências e necessidades do seu cliente ideal e qual é o processo de decisão deste grupo.
 
-**Contribua significativamente para a evolução do seu cliente:** Crie conteúdos para ajudar seus clientes, seja explicando como utilizar seus produtos, aumentar a durabilidade, tenho um canais publicos de comunicação.
+**Contribua significativamente para a evolução do seu cliente:** Crie conteúdos para ajudar seus clientes, seja explicando como utilizar seus produtos, aumentar a durabilidade, procure temas que interessam seu cliente, o que importanta é ter um canal público de comunicação.
