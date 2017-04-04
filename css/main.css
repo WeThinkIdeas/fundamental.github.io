@@ -968,10 +968,10 @@ a {
   -webkit-transition: 0.1s linear;
   -moz-transition: 0.1s linear;
   border-radius: 100px;
-  padding-top: 0.54166667em;
-  padding-bottom: 0.65em;
-  padding-right: 3.25em;
-  padding-left: 3.25em;
+  padding-top: 0.06em;
+  padding-bottom: 0.08em;
+  padding-right: 1em;
+  padding-left: 1em;
   border: 1px solid #232323;
   border-width: 2px;
   font-size: inherit;
