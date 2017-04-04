@@ -807,6 +807,9 @@ a {
 .color--primary-2 {
   color: #d14b4b !important;
 }
+.color--primary-3 {
+    color: #4353ff;
+}
 .color--white {
   color: #fff;
 }
@@ -816,7 +819,7 @@ a {
 .bg--dark {
   background: #000000;
 }
-.bg--dark2 {
+.bg--dark-2 {
   background: #000000;
 }
 .bg--dark *:not(a) {
