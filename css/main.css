@@ -816,6 +816,9 @@ a {
 .bg--dark {
   background: #232323;
 }
+.bg--dark2 {
+  background: #000000;
+}
 .bg--dark *:not(a) {
   color: #f5f5f5;
 }
