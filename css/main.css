@@ -973,9 +973,9 @@ a {
   padding-right: 1em;
   padding-left: 1em;
   border: 1px solid #232323;
-  border-width: 2px;
+  border-width: 1px;
   font-size: inherit;
-  line-height: 1.625em;
+  line-height: 1.50em;
   text-transform: uppercase;
 }
 .btn .btn__text,
