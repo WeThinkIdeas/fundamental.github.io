@@ -338,7 +338,7 @@ mr = (function (mr, $, window, document){
 
         body.find('.form-error, .form-success').remove();
         submitButton.attr('data-text', submitButton.text());
-        errorText = thisForm.attr('data-error') ? thisForm.attr('data-error') : "Please fill all fields correctly";
+        errorText = thisForm.attr('data-error') ? thisForm.attr('data-error') : "Digite todos os campos corretamente.";
         successText = thisForm.attr('data-success') ? thisForm.attr('data-success') : "Obrigado, você recebeu um e-mail de confirmação, favor confirmar.";
         body.append('<div class="form-error" style="display: none;">' + errorText + '</div>');
         body.append('<div class="form-success" style="display: none;">' + successText + '</div>');
