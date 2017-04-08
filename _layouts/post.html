@@ -4,7 +4,7 @@ title: Posts
 ---
 
 <section class="blog-post">
-				<div class="blog-post__title imagebg parallax" data-overlay="5">
+				<div class="blog-post__title imagebg parallax" data-overlay="8">
 					<div class="background-image-holder">
 						<img alt="Imagem" src="{{ site.baseurl }}/{% if page.header-img2 %}{{ page.header-img2 }}{% else %}{{ site.header-img2 }}{% endif %}">
 					</div>
@@ -16,7 +16,7 @@ title: Posts
 									<h4 class="subheading">{{ page.subtitle }}</h4>
 									{% endif %}
 								<div class="blog-post__author">
-									<span class="h6"><em>Escrito por  </em></span><span class="h6">{{ page.author }}</span>
+									<span class="h6"><em>Por  </em></span><span class="h6">{{ page.author }}</span>
 								</div>
 							</div>
 						</div>
@@ -27,7 +27,7 @@ title: Posts
 						<div class="col-sm-8 col-sm-offset-2">
 							{{ content }}
 
-							<!-- {% include comments.html %} -->
+							{% include comments.html %}
 						</div>
 					</div>
 					<!-- <div class="row">
